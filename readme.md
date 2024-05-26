@@ -2,6 +2,7 @@
 
 *Building the next gen infra and dapps for web3 ecosystem*
 
+ - Backend Engg [@LucidityFinance](https://www.lucidity.finance/)
  - Developer [@HyperlaneIndia](https://www.hyperlane.xyz/)
  - Smart Contract Developer Intern [@NStore](https://nstore.in/)
 
