@@ -8,7 +8,7 @@
 
 ## Explore some of my projects !!!
 [![OneFi-ScalingETH](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=armanthepythonguy&repo=OneFi-ScalingETH&theme=dark&show_icons=true")](https://github.com/armanthepythonguy/OneFi-ScalingETH)
-[![ZKP-Hype-ETHOnline](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=armanthepythonguy&repo=ZKP-Hype-ETHOnline&theme=dark&show_icons=true")](https://github.com/armanthepythonguy/ZKP-Hype-ETHOnline)
+[![ZKP-Hype-ETHOnline](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=armanthepythonguy&repo=ZK-Med-CIrcuitBreaker&theme=dark&show_icons=true")](https://github.com/armanthepythonguy/ZK-Med-CircuitBreaker)
 [![ZK-OffchainSentinel](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=armanthepythonguy&repo=LFGHO-ZK-OffchainSentinel&theme=dark&show_icons=true")](https://github.com/armanthepythonguy/LFGHO-ZK-OffchainSentinel)
 [![InterGas-Station-SuperHack](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=armanthepythonguy&repo=InterGas-Station-SuperHack&theme=dark&show_icons=true")](https://github.com/armanthepythonguy/InterGas-Station-SuperHack)
 [![Hyperlane-InterchainDAO](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=armanthepythonguy&repo=Hyperlane-InterchainDAO&theme=dark&show_icons=true")](https://github.com/armanthepythonguy/Hyperlane-InterchainDAO)
