@@ -1,10 +1,11 @@
 # Hola, amigos! I'm [Arman Aurobindo](https://medium.com/@armanityours)
 
-*Building the next gen infra and dapps for web3 ecosystem*
+*Building the next gen privacy infra  for web3 ecosystem*
+ - Devrel [@zkVerify](https://www.zkverify.io)
  - ZK Researcher [@VeriSyncLabs](https://www.verisynclabs.xyz)
- - Backend Engg [@LucidityFinance](https://www.lucidity.finance/)
- - Developer [@HyperlaneIndia](https://www.hyperlane.xyz/)
- - Smart Contract Developer Intern [@NStore](https://nstore.in/)
+ - Ex - Backend Engg [@LucidityFinance](https://www.lucidity.finance/)
+ - Ex - Developer [@HyperlaneIndia](https://www.hyperlane.xyz/)
+ - Ex - Smart Contract Developer Intern [@NStore](https://nstore.in/)
 
 ## Explore some of my projects !!!
 [![Useless zkVM](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=armanthepythonguy&repo=Useless-ZKVM&theme=dark&show_icons=true")](https://github.com/armanthepythonguy/Useless-ZKVM)
